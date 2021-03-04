@@ -1,5 +1,5 @@
 # Chicago_Bulls_API
-This is a repository directly related to my other repository (Chicago_Bulls_ETL_Twitter). API to query the database that runs the Twitter Account.
+This is a repository directly related to my other repository [Chicago_Bulls_ETL_Twitter](https://github.com/culpgrant/Chicago_Bulls_ETL_Twitter) and the [Twitter Account](https://twitter.com/stats_bulls) API to query the database that runs the Twitter Account.
 
 # General Info
 Please see the other .md files that breakdown how to use this Bulls API.
