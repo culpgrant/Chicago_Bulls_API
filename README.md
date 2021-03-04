@@ -4,6 +4,11 @@ This is a repository directly related to my other repository (Chicago_Bulls_ETL_
 # General Info
 Please see the other .md files that breakdown how to use this Bulls API.
 
+Endpoints:
+- Query all data: [Example](https://github.com/culpgrant/Chicago_Bulls_API/blob/main/API_Get_All.md)
+- Query data by player id: [Example](https://github.com/culpgrant/Chicago_Bulls_API/blob/main/API_Get_Player_ID.md)
+- Query data by game date: [Example](https://github.com/culpgrant/Chicago_Bulls_API/blob/main/API_Get_Game_Date.md)
+
 What data does it have?
 - It has the Bulls Box Score Data from the 2020-2021 season.
 
