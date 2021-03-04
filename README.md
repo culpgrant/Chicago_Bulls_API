@@ -50,3 +50,9 @@ Endpoints?
             "game_date": "2020-12-29",
             "season": "2020-2021"
         }
+
+
+# How is it done?
+This is an API all hosted on AWS (same with the database). ![Image of Structure](https://user-images.githubusercontent.com/59777128/109910653-3b6a4880-7c6e-11eb-811a-ffb0e582bb7c.jpeg)
+I have used AWS API Gateway to handle the calls from external users. Each endpoint/resource is tied to a Lambda Function that is triggered by the API call to that endpoint. The API only supports GET methods. The Lamda functions are Python functions that call the RDS Postgres database with the information passed from the call. The function is calling a stored procedure/function within the RDS Postgres database to protect against SQL Injection attacks as the user input has to be specific and is being cleaned.
+
