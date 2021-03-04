@@ -7,6 +7,9 @@ Please see the other .md files that breakdown how to use this Bulls API.
 What data does it have?
 - It has the Bulls Box Score Data from the 2020-2021 season.
 
+Endpoints?
+- The three .md files within this Repository have all the information associated with the three endpoints available currently.
+
 # Sample Response:
 {
     "statusCode": "200",
