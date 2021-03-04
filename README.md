@@ -3,6 +3,7 @@ This is a repository directly related to my other repository (Chicago_Bulls_ETL_
 
 # General Info
 Please see the other .md files that breakdown how to use this Bulls API.
+
 What data does it have?
 - It has the Bulls Box Score Data from the 2020-2021 season.
 
