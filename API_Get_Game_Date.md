@@ -63,3 +63,7 @@
 * **Notes:**
 
   Send a GET request to the URL above to retrieve all the data. Date format: YY-MM-DD
+  
+* **Example:**
+<img width="1278" alt="Game_Date_API_Example" src="https://user-images.githubusercontent.com/59777128/110048935-76c05200-7d16-11eb-981b-185ca7aa561a.png">
+
