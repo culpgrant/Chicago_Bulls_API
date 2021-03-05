@@ -59,3 +59,6 @@
 * **Notes:**
 
   Send a GET request to the URL above to retrieve all the data.
+  
+* **Example:**
+<img width="1277" alt="All_API_Example" src="https://user-images.githubusercontent.com/59777128/110048844-424c9600-7d16-11eb-8fb9-58f8e5a19232.png">
