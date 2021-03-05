@@ -63,3 +63,6 @@
 * **Notes:**
 
   Send a GET request to the URL above to retrieve all the data.
+
+* **Example:**
+<img width="1270" alt="Player_ID_API_Example" src="https://user-images.githubusercontent.com/59777128/110049010-96577a80-7d16-11eb-98fa-f259029b76c1.png">
